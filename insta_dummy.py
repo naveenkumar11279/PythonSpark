@@ -30,4 +30,5 @@ print(currentdate)
 print(timestampde.printSchema())
 print("updating")
 print("updating2")
+print("Changing it for git purpose")
 
