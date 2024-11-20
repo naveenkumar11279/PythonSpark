@@ -29,4 +29,5 @@ timestampde.show()
 print(currentdate)
 print(timestampde.printSchema())
 print("updating")
+print("updating2")
 
