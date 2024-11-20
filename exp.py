@@ -8,4 +8,6 @@ else:
     contents = file.read()
     print(contents)
 finally:
-    print(f"Closing the file :{file.name}")
+    spliting = filepath.split("\\")
+    file_name = spliting[-1]
+    print(f"Closing the file :{file_name}")
